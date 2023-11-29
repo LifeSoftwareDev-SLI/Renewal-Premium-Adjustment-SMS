@@ -1,4 +1,4 @@
-create or replace PROCEDURE PREMIUM_ADJUSTMENTS_SMS
+create or replace PROCEDURE PREMIUM_SUCCESS_SMS
 AS
 smsNo VARCHAR2(10):= '1';
 premium NUMBER(12,2);
